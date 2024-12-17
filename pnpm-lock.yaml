@@ -4220,8 +4220,8 @@ importers:
         specifier: ^4.1.5
         version: 4.1.5
       nanoid:
-        specifier: ^5.0.7
-        version: 5.0.7
+        specifier: ^5.0.9
+        version: 5.0.9
       open:
         specifier: ^10.1.0
         version: 10.1.0
@@ -8706,6 +8706,7 @@ packages:
 
   libsql@0.4.5:
     resolution: {integrity: sha512-sorTJV6PNt94Wap27Sai5gtVLIea4Otb2LUiAUyr3p6BPOScGMKGt5F1b5X/XgkNtcsDKeX5qfeBDj+PdShclQ==}
+    cpu: [x64, arm64, wasm32]
     os: [darwin, linux, win32]
 
   lilconfig@2.1.0:
@@ -9112,8 +9113,8 @@ packages:
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
-  nanoid@5.0.7:
-    resolution: {integrity: sha512-oLxFY2gd2IqnjcYyOXD8XGCftpGtZP2AbHbOkthDkvRywH5ayNtPVy9YlOPcHckXzbLTCHpkb7FB+yuxKV13pQ==}
+  nanoid@5.0.9:
+    resolution: {integrity: sha512-Aooyr6MXU6HpvvWXKoVoXwKMs/KyVakWwg7xQfv5/S/RIgJMy0Ifa45H9qqYy7pTCszrHzP21Uk4PZq2HpEM8Q==}
     engines: {node: ^18 || >=20}
     hasBin: true
 
@@ -15005,7 +15006,7 @@ snapshots:
 
   nanoid@3.3.7: {}
 
-  nanoid@5.0.7: {}
+  nanoid@5.0.9: {}
 
   nanostores@0.11.3: {}
 
