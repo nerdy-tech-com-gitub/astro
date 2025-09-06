@@ -55,7 +55,7 @@
     "astro-scripts": "workspace:*",
     "cheerio": "1.0.0",
     "linkedom": "^0.18.5",
-    "vite": "^5.4.9",
+    "vite": "^5.4.12",
     "vue": "^3.5.12"
   },
   "peerDependencies": {
