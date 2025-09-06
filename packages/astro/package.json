@@ -222,7 +222,7 @@
     "remark-code-titles": "^0.1.2",
     "rollup": "^4.24.0",
     "sass": "^1.79.5",
-    "undici": "^6.20.1",
+    "undici": "^6.21.1",
     "unified": "^11.0.5"
   },
   "engines": {
